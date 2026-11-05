@@ -1,0 +1,25 @@
+{
+  "repository": "module-jetstream-bridge-dart-desktop",
+  "capabilityKey": "liberusoftware/jetstream-bridge",
+  "presentation": "dart-desktop",
+  "package": "module_jetstream_bridge_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/boilerplate/nextjs/jetstream-bridge.md",
+  "presentationPlan": "projects/boilerplate/features/jetstream-bridge.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
